@@ -5,6 +5,8 @@ public class equilateralTriangle {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows: ");
         int rows = sc.nextInt();
+
+// to print equilateral triangle of stars
         // for (int i = 1; i <= rows; i++) {
         //     for (int j = rows; j > i; j--) {
         //         System.out.print(" ");
